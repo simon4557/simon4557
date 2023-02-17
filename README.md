@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me [**Discord Profil**](discordapp.com/users/891754271836635297)
+- 📫 How to reach me [**Discord Profil**](https://discordapp.com/users/891754271836635297)
 
 - ⚡ Fun fact: **I like to sleep**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
