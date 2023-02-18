@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I like to sleep**
 
-- `eat -> sleep -> code -> repeat`
+- 💤 `eat -> sleep -> code -> repeat`
 
 <p align="left">
 
