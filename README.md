@@ -9,6 +9,10 @@
 
 - ⚡ Fun fact: **I like to sleep**
 
+```
+eat -> sleep -> code -> repeat
+```
+
 <p align="left">
 
 <h3 align="left">Languages and Tools:</h3>
